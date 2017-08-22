@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrder", "PizzaOrder\PizzaOrder.csproj", "{4452B104-BE5F-430F-98C1-AFB38D29D11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrderFixture", "CustomerFixture\PizzaOrderFixture.csproj", "{7246C1CF-D63B-4B9E-B35A-2292BDB0089C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4452B104-BE5F-430F-98C1-AFB38D29D11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4452B104-BE5F-430F-98C1-AFB38D29D11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4452B104-BE5F-430F-98C1-AFB38D29D11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4452B104-BE5F-430F-98C1-AFB38D29D11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7246C1CF-D63B-4B9E-B35A-2292BDB0089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7246C1CF-D63B-4B9E-B35A-2292BDB0089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7246C1CF-D63B-4B9E-B35A-2292BDB0089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7246C1CF-D63B-4B9E-B35A-2292BDB0089C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
